@@ -4,7 +4,7 @@
 I'm a passionate developer with a strong interest in web and mobile app development. Always eager to learn and explore new technologies, I thrive on turning ideas into reality through code!
 
 ## 🌱 I'm currently learning
-- Advanced Web Development techniques
+- Web Development techniques
 - Android/iOS app development
 - Cross-platform mobile development frameworks
 
