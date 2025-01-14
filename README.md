@@ -29,9 +29,6 @@ I'm always open to collaborating on projects related to web development, mobile 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kopisusu8ip@gmail.com)
 
-## 😄 Pronouns
-[Your Pronouns]
-
 ## ⚡ Fun fact
 I'm always excited to explore new technologies and challenge myself with innovative projects. My curiosity drives me to constantly expand my skill set and stay up-to-date with the latest trends in the tech world!
 
