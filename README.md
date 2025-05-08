@@ -52,8 +52,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/fathuur7/fathuur7/output/snake.svg" alt="Snake animation" />
 
 ###
