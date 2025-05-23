@@ -29,12 +29,6 @@ const yumyum = {
 ---
 
 ## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fathuur7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathuur7&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF"/>
-</div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fathuur7&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFF" height="200"/>
 </div>
@@ -95,17 +89,6 @@ const yumyum = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fathuur7&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
-
----
-
-## 🎵 **Now Playing**
-
-<div align="center">
-  
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31l26yvkx6liacqkx7mqgtneiqai&count=1&unique=true)](https://open.spotify.com/user/31l26yvkx6liacqkx7mqgtneiqai)
-
-</div>
-
 ---
 
 ## 🌐 **Connect With Me**
