@@ -1,59 +1,160 @@
-<h2 align="left">HI MY NAME IS YUM YUM</h2>
-
-###
+# <div align="center">✨ Hi there! I'm **YUM YUM** ✨</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fathuur7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fathuur7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false" height="151" alt="languages graph"  />
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Welcome+to+my+GitHub!+%F0%9F%91%8B)
+  
 </div>
 
-###
+---
+
+## 🌟 **About Me**
+
+<img align="right" height="250" src="https://media.tenor.com/nb_83xDs3ekAAAAM/aespa-karina.gif" />
+
+```javascript
+const yumyum = {
+    code: ["JavaScript", "TypeScript", "Python", "Go"],
+    technologies: {
+        frontEnd: ["React", "HTML", "CSS", "TailwindCSS"],
+        backEnd: ["Node.js", "Express"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "VS Code"]
+    },
+    currentFocus: "Building amazing web applications",
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
+};
+```
+
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fathuur7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathuur7&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF"/>
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/nb_83xDs3ekAAAAM/aespa-karina.gif"  />
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <img src="https://streak-stats.demolab.com?user=fathuur7&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFF" height="200"/>
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathuur7/fathuur7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathuur7/fathuur7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fathuur7/fathuur7/output/pacman-contribution-graph.svg">
-</picture>
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 **Current Projects**
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **Awesome Web App** | Full-stack application with modern UI | React, Node.js, MongoDB |
+| 🎨 **Portfolio Website** | Personal portfolio with animations | React, TailwindCSS |
+| 📱 **Mobile App** | Cross-platform mobile application | React Native |
+
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathuur7&theme=react-dark&bg_color=0D1117&hide_border=true&line=FF6B6B&point=FF6B6B&color=FFF" width="100%"/>
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fathuur7&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+---
+
+## 🎵 **Now Playing**
+
+<div align="center">
+  
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31l26yvkx6liacqkx7mqgtneiqai&count=1&unique=true)](https://open.spotify.com/user/31l26yvkx6liacqkx7mqgtneiqai)
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+
+</div>
+
+---
+
+## 💭 **Random Dev Quote**
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📊 **Weekly Development Breakdown**
+
+```text
+JavaScript   8 hrs 12 mins   ████████████████████▓   82.35 % 
+TypeScript   1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░   15.23 % 
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░   02.42 % 
+```
+
+---
+
+<div align="center">
+  
+### 🎯 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=fathuur7&color=brightgreen&style=for-the-badge)
+
+### ⭐ **Thank you for visiting my profile!** ⭐
+
+![Snake animation](https://github.com/fathuur7/fathuur7/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
