@@ -132,7 +132,7 @@ JSON         14 mins         ▓░░░░░░░░░░░░░░░░
 
 ### ⭐ **Thank you for visiting my profile!** ⭐
 
-![Snake animation](https://github.com/fathuur7/fathuur7/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/fathuur7/fathuur7/output/snake.svg" alt="Snake animation" />
 
 </div>
 
