@@ -16,9 +16,10 @@
 const yumyum = {
     code: ["JavaScript", "TypeScript", "Python", "Go"],
     technologies: {
+        forFullSatck : ["next js", "nuxt js"],
         frontEnd: ["React", "HTML", "CSS", "TailwindCSS"],
         backEnd: ["Node.js", "Express"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        databases: ["MongoDB", "MySQL"],
         tools: ["Git", "Docker", "VS Code"]
     },
     currentFocus: "Building amazing web applications",
